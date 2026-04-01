@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: Saravalonia
+  commentId: N:Saravalonia
+  id: Saravalonia
+  children:
+  - Saravalonia.App
+  - Saravalonia.MainWindow
+  langs:
+  - csharp
+  - vb
+  name: Saravalonia
+  nameWithType: Saravalonia
+  fullName: Saravalonia
+  type: Namespace
+  assemblies:
+  - Saravalonia
+references:
+- uid: Saravalonia.App
+  commentId: T:Saravalonia.App
+  href: Saravalonia.App.html
+  name: App
+  nameWithType: App
+  fullName: Saravalonia.App
+- uid: Saravalonia.MainWindow
+  commentId: T:Saravalonia.MainWindow
+  href: Saravalonia.MainWindow.html
+  name: MainWindow
+  nameWithType: MainWindow
+  fullName: Saravalonia.MainWindow

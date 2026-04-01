@@ -1,0 +1,10 @@
+{
+  "Saravalonia": "Saravalonia.yml",
+  "Saravalonia.App": "Saravalonia.App.yml",
+  "Saravalonia.App.Initialize": "Saravalonia.App.yml",
+  "Saravalonia.App.OnFrameworkInitializationCompleted": "Saravalonia.App.yml",
+  "Saravalonia.MainWindow": "Saravalonia.MainWindow.yml",
+  "Saravalonia.MainWindow.#ctor": "Saravalonia.MainWindow.yml",
+  "Saravalonia.MainWindow.InitializeComponent(System.Boolean,System.Boolean)": "Saravalonia.MainWindow.yml",
+  "Saravalonia.MainWindow.OnKeyDown(Avalonia.Input.KeyEventArgs)": "Saravalonia.MainWindow.yml"
+}

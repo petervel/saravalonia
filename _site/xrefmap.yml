@@ -1,0 +1,95 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Saravalonia
+  name: Saravalonia
+  href: api/Saravalonia.html
+  commentId: N:Saravalonia
+  fullName: Saravalonia
+  nameWithType: Saravalonia
+- uid: Saravalonia.App
+  name: App
+  href: api/Saravalonia.App.html
+  commentId: T:Saravalonia.App
+  fullName: Saravalonia.App
+  nameWithType: App
+- uid: Saravalonia.App.Initialize
+  name: Initialize()
+  href: api/Saravalonia.App.html#Saravalonia_App_Initialize
+  commentId: M:Saravalonia.App.Initialize
+  fullName: Saravalonia.App.Initialize()
+  nameWithType: App.Initialize()
+- uid: Saravalonia.App.Initialize*
+  name: Initialize
+  href: api/Saravalonia.App.html#Saravalonia_App_Initialize_
+  commentId: Overload:Saravalonia.App.Initialize
+  isSpec: "True"
+  fullName: Saravalonia.App.Initialize
+  nameWithType: App.Initialize
+- uid: Saravalonia.App.OnFrameworkInitializationCompleted
+  name: OnFrameworkInitializationCompleted()
+  href: api/Saravalonia.App.html#Saravalonia_App_OnFrameworkInitializationCompleted
+  commentId: M:Saravalonia.App.OnFrameworkInitializationCompleted
+  fullName: Saravalonia.App.OnFrameworkInitializationCompleted()
+  nameWithType: App.OnFrameworkInitializationCompleted()
+- uid: Saravalonia.App.OnFrameworkInitializationCompleted*
+  name: OnFrameworkInitializationCompleted
+  href: api/Saravalonia.App.html#Saravalonia_App_OnFrameworkInitializationCompleted_
+  commentId: Overload:Saravalonia.App.OnFrameworkInitializationCompleted
+  isSpec: "True"
+  fullName: Saravalonia.App.OnFrameworkInitializationCompleted
+  nameWithType: App.OnFrameworkInitializationCompleted
+- uid: Saravalonia.MainWindow
+  name: MainWindow
+  href: api/Saravalonia.MainWindow.html
+  commentId: T:Saravalonia.MainWindow
+  fullName: Saravalonia.MainWindow
+  nameWithType: MainWindow
+- uid: Saravalonia.MainWindow.#ctor
+  name: MainWindow()
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow__ctor
+  commentId: M:Saravalonia.MainWindow.#ctor
+  name.vb: New()
+  fullName: Saravalonia.MainWindow.MainWindow()
+  fullName.vb: Saravalonia.MainWindow.New()
+  nameWithType: MainWindow.MainWindow()
+  nameWithType.vb: MainWindow.New()
+- uid: Saravalonia.MainWindow.#ctor*
+  name: MainWindow
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow__ctor_
+  commentId: Overload:Saravalonia.MainWindow.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Saravalonia.MainWindow.MainWindow
+  fullName.vb: Saravalonia.MainWindow.New
+  nameWithType: MainWindow.MainWindow
+  nameWithType.vb: MainWindow.New
+- uid: Saravalonia.MainWindow.InitializeComponent(System.Boolean,System.Boolean)
+  name: InitializeComponent(bool, bool)
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow_InitializeComponent_System_Boolean_System_Boolean_
+  commentId: M:Saravalonia.MainWindow.InitializeComponent(System.Boolean,System.Boolean)
+  name.vb: InitializeComponent(Boolean, Boolean)
+  fullName: Saravalonia.MainWindow.InitializeComponent(bool, bool)
+  fullName.vb: Saravalonia.MainWindow.InitializeComponent(Boolean, Boolean)
+  nameWithType: MainWindow.InitializeComponent(bool, bool)
+  nameWithType.vb: MainWindow.InitializeComponent(Boolean, Boolean)
+- uid: Saravalonia.MainWindow.InitializeComponent*
+  name: InitializeComponent
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow_InitializeComponent_
+  commentId: Overload:Saravalonia.MainWindow.InitializeComponent
+  isSpec: "True"
+  fullName: Saravalonia.MainWindow.InitializeComponent
+  nameWithType: MainWindow.InitializeComponent
+- uid: Saravalonia.MainWindow.OnKeyDown(Avalonia.Input.KeyEventArgs)
+  name: OnKeyDown(KeyEventArgs)
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow_OnKeyDown_Avalonia_Input_KeyEventArgs_
+  commentId: M:Saravalonia.MainWindow.OnKeyDown(Avalonia.Input.KeyEventArgs)
+  fullName: Saravalonia.MainWindow.OnKeyDown(Avalonia.Input.KeyEventArgs)
+  nameWithType: MainWindow.OnKeyDown(KeyEventArgs)
+- uid: Saravalonia.MainWindow.OnKeyDown*
+  name: OnKeyDown
+  href: api/Saravalonia.MainWindow.html#Saravalonia_MainWindow_OnKeyDown_
+  commentId: Overload:Saravalonia.MainWindow.OnKeyDown
+  isSpec: "True"
+  fullName: Saravalonia.MainWindow.OnKeyDown
+  nameWithType: MainWindow.OnKeyDown

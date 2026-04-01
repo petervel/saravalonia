@@ -1,0 +1,13 @@
+### YamlMime:TableOfContent
+items:
+- uid: Saravalonia
+  name: Saravalonia
+  type: Namespace
+  items:
+  - uid: Saravalonia.App
+    name: App
+    type: Class
+  - uid: Saravalonia.MainWindow
+    name: MainWindow
+    type: Class
+memberLayout: SamePage
