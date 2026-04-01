@@ -13,7 +13,7 @@ class Spaceship : Entity
     public override void Update()
     {
         
-        Console.WriteLine("Huh?");
+        Console.WriteLine("WREUH?");
         
     }
 }

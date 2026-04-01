@@ -17,7 +17,7 @@ class Game
     /// <param name="canvas">The canvas the game should be shown on</param>
     public Game(Canvas canvas)
     {
-        Console.WriteLine("BOE!");
+        Console.WriteLine("BOssssss!");
         _canvas = canvas;
         _spaceship = new Spaceship(canvas);
     }
