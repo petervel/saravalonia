@@ -16,8 +16,6 @@ public partial class MainWindow : Window
 
         _game = new Game(DrawCanvas);
 
-        Console.WriteLine("Hallo Sarah");
-
         _timer = new DispatcherTimer() { Interval = TimeSpan.FromMilliseconds(1000 / 30) };
         _timer.Tick += OnTick!;
         _timer.Start();
