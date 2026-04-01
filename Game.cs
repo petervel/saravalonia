@@ -1,3 +1,4 @@
+using System;
 using Avalonia.Controls;
 using Avalonia.Input;
 
@@ -16,6 +17,7 @@ class Game
     /// <param name="canvas">The canvas the game should be shown on</param>
     public Game(Canvas canvas)
     {
+        Console.WriteLine("BOE!");
         _canvas = canvas;
         _spaceship = new Spaceship(canvas);
     }

@@ -1,3 +1,4 @@
+using System;
 using Avalonia.Controls;
 
 class Spaceship : Entity
@@ -12,7 +13,7 @@ class Spaceship : Entity
     public override void Update()
     {
         
-
+        Console.WriteLine("Huh?");
         
     }
 }
